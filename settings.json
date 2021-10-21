@@ -1,0 +1,4 @@
+{
+    "PORT": 3000,
+    "MONGO_URI":"mongodb+srv://GouseAshwak:9lyX9WhbAfM4RdtC@cluster0.duavf.mongodb.net/task"
+}
